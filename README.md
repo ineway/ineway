@@ -10,7 +10,7 @@
 
 [![个人主页](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-ineway.github.io-1a5c4a?style=flat-square&logo=githubpages&logoColor=white)](https://ineway.github.io)
 [![网站](https://img.shields.io/badge/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F-chenronghui.com-1a5c4a?style=flat-square&logo=safari&logoColor=white)](https://chenronghui.com)
-[![邮箱](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-ineway%40me.com-1a5c4a?style=flat-square&logo=maildotru&logoColor=white)](mailto:ineway@me.com)
+[![邮箱](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-CRH0139%40vip.qq.com-1a5c4a?style=flat-square&logo=maildotru&logoColor=white)](mailto:CRH0139@vip.qq.com)
 
 </div>
 
@@ -37,7 +37,7 @@
 | 个人主页 | [ineway.github.io](https://ineway.github.io) |
 | 个人网站 | [chenronghui.com](https://chenronghui.com) |
 | 公司 | Quanzhou Neway Industrial Limited |
-| 邮箱 | [ineway@me.com](mailto:ineway@me.com) |
+| 邮箱 | [CRH0139@vip.qq.com](mailto:CRH0139@vip.qq.com) |
 
 ### 这个账号
 
